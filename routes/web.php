@@ -12,5 +12,8 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('layouts/index');
+});
+Route::get('/talleres', function () {
+    return view('layouts/talleres');
 });
