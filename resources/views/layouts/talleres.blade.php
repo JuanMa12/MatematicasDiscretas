@@ -38,7 +38,7 @@
                         </div>
                     </div>
                     <div class="course_content">
-                        <a href="course.html">
+                        <a href="{{ url('/taller/logicaproposicional') }}">
                             <h3>Logica Proposicional  - 1Corte</h3>
                         </a>
                         <p>La lógica proposicional o lógica de orden cero es un
@@ -59,7 +59,7 @@
                         </div>
                     </div>
                     <div class="course_content">
-                        <a href="course-detail.html">
+                        <a href="{{ url('/taller/algebrabooleana') }}">
                             <h3>Algebra Booleana - 1Corte</h3>
                         </a>
                         <p>El álgebra booleana es un sistema matemático deductivo centrado
@@ -79,7 +79,7 @@
                         </div>
                     </div>
                     <div class="course_content">
-                        <a href="course-detail.html">
+                        <a href="#">
                             <h3>Proximamente</h3>
                         </a>
                         <p>...</p>

@@ -17,3 +17,9 @@ Route::get('/', function () {
 Route::get('/talleres', function () {
     return view('layouts/talleres');
 });
+Route::get('/taller/logicaproposicional', function () {
+    return view('talleres/one');
+});
+Route::get('/taller/algebrabooleana', function () {
+    return view('talleres/two');
+});

@@ -1655,8 +1655,8 @@ home3 .blog_content > a:hover {
 /* ------------------------------------------------
     *** Course Detail  Page Css Start***
 ------------------------------------------------- */
-.course_detail_img{
-    background-image: url(../images/course_detail_img.jpg);
+.course_detail_img1{
+    background-image: url(../images/course_img1.jpg);
     height: 480px;
     width: 100%;
     border-radius: 10px;
