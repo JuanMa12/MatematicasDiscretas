@@ -41,7 +41,7 @@
                         <a href="{{ url('/taller/logicaproposicional') }}">
                             <h3>Logica Proposicional  - 1Corte</h3>
                         </a>
-                        <p>La lógica proposicional o lógica de orden cero es un
+                        <p>La lógica proposicional es un
                           sistema formal cuyos elementos más simples representan
                           proposiciones.</p>
                         <a href="{{ url('/taller/logicaproposicional') }}">
@@ -55,7 +55,7 @@
                 <div class="single_course text-center mlr10">
                     <div class="single_course_bg single_course_bg2">
                         <div class="date_round">
-                            <h4>27 <br>Ago</h4>
+                            <h4>25 <br>Ago</h4>
                         </div>
                     </div>
                     <div class="course_content">
@@ -75,15 +75,17 @@
                 <div class="single_course text-center ml20">
                     <div class="single_course_bg single_course_bg3">
                         <div class="date_round">
-                            <h4>05 <br>Sep</h4>
+                            <h4>30 <br>Ago</h4>
                         </div>
                     </div>
                     <div class="course_content">
                         <a href="#">
-                            <h3>Proximamente</h3>
+                            <h3>Conjuntos y Relaciones - 1Corte</h3>
                         </a>
-                        <p>...</p>
-                        <a href="#"><i class="fa fa-arrow-right"></i></a>
+                        <p>Un conjunto es una colección de elementos considerada
+                          en sí misma como un objeto.</p>
+                        <a href="{{ url('/taller/conjuntos') }}">
+                          <i class="fa fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <!-- Single Course End -->

@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-sm-2 col-xs-4">
                     <div class="romana_logo">
-                        <a href="index.html"><img src="/images/logo.png" alt=""></a>
+                        <a href="{{ url('/')}}"><img src="/images/logo.png" alt=""></a>
                     </div>
                 </div>
                 <!-- column End -->
@@ -17,6 +17,7 @@
                                 <ul class="sub_menu">
                                     <li><a href="{{ url('/taller/logicaproposicional')}}">Logica Proposicional</a></li>
                                     <li><a href="{{ url('/taller/algebrabooleana')}}">Algebra Boolena</a></li>
+                                    <li><a href="{{ url('/taller/conjuntos')}}">Conjuntos y Relaciones</a></li>
                                 </ul>
                             </li>
                         </ul>

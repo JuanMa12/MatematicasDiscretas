@@ -22,10 +22,10 @@
                             </div>
                         </div>
                         <div class="course_content">
-                            <a href="course.html">
+                            <a href="#">
                                 <h3>Logica Proposicional</h3>
                             </a>
-                            <p>La lógica proposicional o lógica de orden cero es un
+                            <p>La lógica proposicional es un
                               sistema formal cuyos elementos más simples representan
                               proposiciones.</p>
                             <a href="{{ url('/taller/logicaproposicional')}}">
@@ -39,11 +39,11 @@
                     <div class="single_course text-center mlr10">
                         <div class="single_course_bg single_course_bg2">
                             <div class="date_round">
-                                <h4>27 <br>Ago</h4>
+                                <h4>25 <br>Ago</h4>
                             </div>
                         </div>
                         <div class="course_content">
-                            <a href="course-detail.html">
+                            <a href="#">
                                 <h3>Algebra Booleana</h3>
                             </a>
                             <p>El álgebra booleana es un sistema matemático deductivo centrado
@@ -59,15 +59,16 @@
                     <div class="single_course text-center ml20">
                         <div class="single_course_bg single_course_bg3">
                             <div class="date_round">
-                                <h4>05 <br>Sep</h4>
+                                <h4>30 <br>Ago</h4>
                             </div>
                         </div>
                         <div class="course_content">
-                            <a href="course-detail.html">
-                                <h3>Proximamente</h3>
-                            </a>
-                            <p>...</p>
                             <a href="#">
+                                <h3>Conjuntos y Relaciones</h3>
+                            </a>
+                            <p>Un conjunto es una colección de elementos considerada
+                              en sí misma como un objeto.</p>
+                            <a href="{{ url('/taller/conjuntos') }}">
                               <i class="fa fa-arrow-right"></i></a>
                         </div>
                     </div>

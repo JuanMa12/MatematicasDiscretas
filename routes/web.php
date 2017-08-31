@@ -23,3 +23,6 @@ Route::get('/taller/logicaproposicional', function () {
 Route::get('/taller/algebrabooleana', function () {
     return view('talleres/two');
 });
+Route::get('/taller/conjuntos', function () {
+    return view('talleres/three');
+});

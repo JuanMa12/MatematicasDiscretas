@@ -118,18 +118,9 @@
                                 <img src="/images_talleres/one/5/5.png" alt="4" class="img-responsive center-block">
                               </div>
 
-                              <!-- a -->
-                              <p><strong>a) Salida 1</strong></p>
-                              <img src="" alt="4->a" class="img-responsive">
-                              <!-- b -->
-                              <p><strong>b) Salida 2</strong></p>
-                              <img src="" alt="4->b" class="img-responsive">
-                              <!-- c -->
-                              <p><strong>c) Salida 3</strong></p>
-                              <img src="" alt="4->c" class="img-responsive">
-                              <!-- d -->
-                              <p><strong>d) Salida 4</strong></p>
-                              <img src="" alt="4->d" class="img-responsive">
+                              <!-- all salidas -->
+                              <p><strong>Salidas</strong></p>
+                              <img src="/images_talleres/one/5/5-a.png" alt="4->a" class="img-responsive">
                             </div>
                         </div>
                     </div>

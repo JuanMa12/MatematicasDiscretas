@@ -56,27 +56,27 @@
                               <p><img src="/images_talleres/two/2/2-a.png" alt="2->a" class="img-responsive"></p>
                               <p><strong>a)Manera cotidiana</strong></p>
                               <img src="/images_talleres/two/2/2.a-fc.png" alt="2->a-2-mc" class="img-responsive">
-                              <p><strong>a)Tecnica NAND</strong></p>
+                              <p><strong>b)Tecnica NAND</strong></p>
                               <img src="/images_talleres/two/2/2.a-NAND.png" alt="2->a-2-nand" class="img-responsive">
-                              <p><strong>a)Tecnica NOR</strong></p>
+                              <p><strong>c)Tecnica NOR</strong></p>
                               <img src="/images_talleres/two/2/2.a-NOR.png" alt="2->a-2-nor" class="img-responsive">
                               <hr><hr>
                               <!-- b -->
                               <p><img src="/images_talleres/two/2/2-b.png" alt="2->b" class="img-responsive"></p>
                               <p><strong>a)Manera cotidiana</strong></p>
                               <img src="/images_talleres/two/2/2.b-fc.png" alt="2->b-mc" class="img-responsive">
-                              <p><strong>a)Tecnica NAND</strong></p>
+                              <p><strong>b)Tecnica NAND</strong></p>
                               <img src="/images_talleres/two/2/2.b-NAND.png" alt="2->b-nand" class="img-responsive">
-                              <p><strong>a)Tecnica NOR</strong></p>
+                              <p><strong>c)Tecnica NOR</strong></p>
                               <img src="/images_talleres/two/2/2.b-NOR.png" alt="2->b-nor" class="img-responsive">
                               <hr><hr>
                               <!-- c -->
                               <p><img src="/images_talleres/two/2/2-c.png" alt="2->c" class="img-responsive"></p>
                               <p><strong>a)Manera cotidiana</strong></p>
                               <img src="/images_talleres/two/2/2.c-fc.png" alt="2->c-mc" class="img-responsive">
-                              <p><strong>a)Tecnica NAND</strong></p>
+                              <p><strong>b)Tecnica NAND</strong></p>
                               <img src="/images_talleres/two/2/2.c-NAND.png" alt="2->c-nand" class="img-responsive">
-                              <p><strong>a)Tecnica NOR</strong></p>
+                              <p><strong>c)Tecnica NOR</strong></p>
                               <img src="/images_talleres/two/2/2.c-NOR.png" alt="2->c-nor" class="img-responsive">
                             </div>
                         </div>
@@ -232,7 +232,7 @@
                             <div class="course_info">
                                 <h2>Taller Informacion</h2>
                                 <ul>
-                                    <li>Fecha<span>26 - 08 - 17</span></li>
+                                    <li>Fecha<span>25 - 08 - 17</span></li>
                                     <li>Total ejercicios<span>28</span></li>
                                 </ul>
                             </div>
