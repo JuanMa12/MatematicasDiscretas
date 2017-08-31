@@ -36,8 +36,11 @@
                                 <p><strong style="font-size: 20px;">1. </strong> Simplificar las siguientes expresiones
                                   Booleanas y dibuje los respectivos circuitos equivalentes.</strong></p>
                                 <p><img src="/images_talleres/two/1/1-a.png" alt="1->a" class="img-responsive"></p>
+                                <img src="/images_talleres/two/1/1.a-2.jpg" alt="1->a" class="img-responsive">
                                 <p><img src="/images_talleres/two/1/1-b.png" alt="1->b" class="img-responsive"></p>
+                                <img src="/images_talleres/two/1/1.b-2.jpg" alt="1->a" class="img-responsive">
                                 <p><img src="/images_talleres/two/1/1-c.png" alt="1->c" class="img-responsive"></p>
+                                <img src="/images_talleres/two/1/1.c-2.jpg" alt="1->a" class="img-responsive">
                             </div>
                         </div>
 
@@ -51,13 +54,30 @@
                                 NOR, de las siguientes funciones:</p>
                               <!-- a -->
                               <p><img src="/images_talleres/two/2/2-a.png" alt="2->a" class="img-responsive"></p>
-                              <img src="" alt="2->a-2" class="img-responsive">
+                              <p><strong>a)Manera cotidiana</strong></p>
+                              <img src="/images_talleres/two/2/2.a-fc.png" alt="2->a-2-mc" class="img-responsive">
+                              <p><strong>a)Tecnica NAND</strong></p>
+                              <img src="/images_talleres/two/2/2.a-NAND.png" alt="2->a-2-nand" class="img-responsive">
+                              <p><strong>a)Tecnica NOR</strong></p>
+                              <img src="/images_talleres/two/2/2.a-NOR.png" alt="2->a-2-nor" class="img-responsive">
+                              <hr><hr>
                               <!-- b -->
                               <p><img src="/images_talleres/two/2/2-b.png" alt="2->b" class="img-responsive"></p>
-                              <img src="" alt="2->b-2" class="img-responsive">
+                              <p><strong>a)Manera cotidiana</strong></p>
+                              <img src="/images_talleres/two/2/2.b-fc.png" alt="2->b-mc" class="img-responsive">
+                              <p><strong>a)Tecnica NAND</strong></p>
+                              <img src="/images_talleres/two/2/2.b-NAND.png" alt="2->b-nand" class="img-responsive">
+                              <p><strong>a)Tecnica NOR</strong></p>
+                              <img src="/images_talleres/two/2/2.b-NOR.png" alt="2->b-nor" class="img-responsive">
+                              <hr><hr>
                               <!-- c -->
                               <p><img src="/images_talleres/two/2/2-c.png" alt="2->c" class="img-responsive"></p>
-                              <img src="" alt="2->c-2" class="img-responsive">
+                              <p><strong>a)Manera cotidiana</strong></p>
+                              <img src="/images_talleres/two/2/2.c-fc.png" alt="2->c-mc" class="img-responsive">
+                              <p><strong>a)Tecnica NAND</strong></p>
+                              <img src="/images_talleres/two/2/2.c-NAND.png" alt="2->c-nand" class="img-responsive">
+                              <p><strong>a)Tecnica NOR</strong></p>
+                              <img src="/images_talleres/two/2/2.c-NOR.png" alt="2->c-nor" class="img-responsive">
                             </div>
                         </div>
                     </div>
@@ -69,13 +89,13 @@
                                 de logica cableada para las siguientes expresiones:</p>
                               <!-- a -->
                               <img src="/images_talleres/two/3/3-a.png" alt="3->a" class="img-responsive">
-                              <img src="" alt="3->a-2" class="img-responsive">
+                              <img src="/images_talleres/two/3/3.a-2.jpg" alt="3->a-2" class="img-responsive">
                               <!-- b -->
                               <img src="/images_talleres/two/3/3-b.png" alt="3->a" class="img-responsive">
-                              <img src="" alt="3->b-2" class="img-responsive">
+                              <img src="/images_talleres/two/3/3.b-2.jpg" alt="3->b-2" class="img-responsive">
                               <!-- c -->
                               <img src="/images_talleres/two/3/3-c.png" alt="3->a" class="img-responsive">
-                              <img src="" alt="3->c-2" class="img-responsive">
+                              <img src="/images_talleres/two/3/3.c-2.jpg" alt="3->c-2" class="img-responsive">
                             </div>
                         </div>
                     </div>
@@ -92,7 +112,14 @@
                                 </div>
 
                               <!-- a -->
-                              <img src="" alt="4->a" class="img-responsive">
+                              <p><strong>Salida 1</strong></p>
+                              <img src="/images_talleres/two/4/4.a.png" alt="4->a" class="img-responsive">
+                              <!-- b -->
+                              <p><strong>Salida 2</strong></p>
+                              <img src="/images_talleres/two/4/4.b.png" alt="4->b" class="img-responsive">
+                              <!-- c -->
+                              <p><strong>Salida 3</strong></p>
+                              <img src="/images_talleres/two/4/4.c.png" alt="4->c" class="img-responsive">
 
                             </div>
                         </div>
@@ -127,10 +154,10 @@
 
                                 <!-- a -->
                                 <p><img src="/images_talleres/two/6/6-a.png" alt="6->a" class="img-responsive"></p>
-                                <img src="" alt="6->a-2" class="img-responsive">
+                                <img src="/images_talleres/two/6/6.a-2.png" alt="6->a-2" class="img-responsive">
                                 <!-- b -->
-                                <p><img src="/images_talleres/two/6/6-b.png" alt="6->a" class="img-responsive" alt="5->b" class="img-responsive"></p>
-                                <img src="" alt="6->b-2" class="img-responsive">
+                                <p><img src="/images_talleres/two/6/6-b.png" alt="6->a"  class="img-responsive"></p>
+                                <img src="/images_talleres/two/6/6.b-2.jpg" alt="6->b-2" class="img-responsive">
                             </div>
                         </div>
                     </div>
@@ -162,8 +189,11 @@
                                 a la puerta, el motor y las luces.</p>
 
                               <!-- a -->
-                              <img src="" alt="8->a" class="img-responsive">
+                              <p><strong>Luces encendidas</strong></p>
+                              <img src="/images_talleres/two/8/8.a.jpg" alt="8->a" class="img-responsive">
                               <!-- b -->
+                              <p><strong>Puerta del conductor abierta</strong></p>
+                              <img src="/images_talleres/two/8/8.b.png" alt="8->a" class="img-responsive">
                             </div>
                         </div>
                     </div>
@@ -174,14 +204,11 @@
                               <p><strong style="font-size: 20px;">9. </strong> Implemente en <strong>Simulink</strong>.</p>
 
                               <!-- a -->
-                              <p><strong>a)</strong> Un circuito que Sumador Restador.</p>
-                              <img src="" alt="9->a" class="img-responsive">
-                              <!-- b -->
-                              <p><strong>b)</strong> El circuito comparador que se ilustra en la figura
+                              <p><strong>a)</strong> Un circuito que Sumador Restador. <strong>b)</strong> El circuito comparador que se ilustra en la figura
                                 de abajo y elabore su respectiva tabla de verdad. (Recuerde que
                                 tiene tres salidas diferentes).</p>
                               <img src="/images_talleres/two/9/9-b.png" alt="9->b" class="img-responsive">
-                              <img src="" alt="9->b-2" class="img-responsive">
+                              <img src="/images_talleres/two/9/9.a-2.png" alt="9->a" class="img-responsive">
                             </div>
                         </div>
                     </div>
@@ -192,10 +219,9 @@
                               <p><strong style="font-size: 20px;">10. </strong> Diseñe un circuito lógico
                                 con semisumadores, que haga la multiplicación entre dos números binarios
                                 uno de tres bits por otro de dos.</p>
-
                               <!-- a -->
-                              <img src="" alt="10->a" class="img-responsive">
-                              <!-- b -->
+                              <img src="/images_talleres/two/10/10.jpg" alt="10" class="img-responsive">
+                              <br><br>
                             </div>
                         </div>
                     </div>
@@ -206,8 +232,8 @@
                             <div class="course_info">
                                 <h2>Taller Informacion</h2>
                                 <ul>
-                                    <li>Fecha<span>22 - 08 - 17</span></li>
-                                    <li>Total ejercicios<span>22</span></li>
+                                    <li>Fecha<span>26 - 08 - 17</span></li>
+                                    <li>Total ejercicios<span>28</span></li>
                                 </ul>
                             </div>
                         </div>
