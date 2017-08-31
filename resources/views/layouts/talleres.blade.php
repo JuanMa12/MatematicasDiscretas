@@ -79,7 +79,7 @@
                         </div>
                     </div>
                     <div class="course_content">
-                        <a href="#">
+                        <a href="{{ url('/taller/conjuntos') }}">
                             <h3>Conjuntos y Relaciones - 1Corte</h3>
                         </a>
                         <p>Un conjunto es una colección de elementos considerada

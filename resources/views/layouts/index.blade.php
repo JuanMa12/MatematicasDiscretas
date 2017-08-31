@@ -22,7 +22,7 @@
                             </div>
                         </div>
                         <div class="course_content">
-                            <a href="#">
+                            <a href="{{ url('/taller/logicaproposicional')}}">
                                 <h3>Logica Proposicional</h3>
                             </a>
                             <p>La lógica proposicional es un
@@ -43,7 +43,7 @@
                             </div>
                         </div>
                         <div class="course_content">
-                            <a href="#">
+                            <a href="{{ url('/taller/algebrabooleana')}}">
                                 <h3>Algebra Booleana</h3>
                             </a>
                             <p>El álgebra booleana es un sistema matemático deductivo centrado
@@ -63,7 +63,7 @@
                             </div>
                         </div>
                         <div class="course_content">
-                            <a href="#">
+                            <a href="{{ url('/taller/conjuntos') }}">
                                 <h3>Conjuntos y Relaciones</h3>
                             </a>
                             <p>Un conjunto es una colección de elementos considerada
@@ -113,14 +113,14 @@
             </div>
             <!-- Row End -->
             <div class="row">
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-3 col-sm-6">
                     <div class="single_teacher text-center">
                         <a href="#">
                             <div class="single_teacher_bg single_teacher_bg1"></div>
                         </a>
                         <div class="teacher_title">
                             <div class="title">
-                                <a href="teacher.html">
+                                <a href="#">
                                     <h3>Juan Manuel Ruiz</h3>
                                 </a>
                                 <p>Desarrollador Web</p>
@@ -130,13 +130,13 @@
                     <!-- Single Service End -->
                 </div>
                 <!-- Column End -->
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-3 col-sm-6">
                     <div class="single_teacher text-center">
-                        <a href="teacher.html">
+                        <a href="#">
                             <div class="single_teacher_bg single_teacher_bg2"></div>
                         </a>
                         <div class="teacher_title">
-                            <a href="teacher.html">
+                            <a href="#">
                                 <h3>Sergio Andres Jimenez</h3>
                             </a>
                             <p>Profesional en infraestructura de redes</p>
@@ -145,16 +145,31 @@
                     <!-- Single Service End -->
                 </div>
                 <!-- Column End -->
-                <div class="col-md-4 col-sm-6">
+                <div class="col-md-3 col-sm-6">
                     <div class="single_teacher text-center">
-                        <a href="teacher.html">
+                        <a href="#">
                             <div class="single_teacher_bg single_teacher_bg3"></div>
                         </a>
                         <div class="teacher_title">
-                            <a href="teacher.html">
+                            <a href="#">
                                 <h3>Jeison Andres Casallas</h3>
                             </a>
                             <p>Desarrollador Web</p>
+                        </div>
+                    </div>
+                    <!-- Single Service End -->
+                </div>
+                <!-- Column End -->
+                <div class="col-md-3 col-sm-6">
+                    <div class="single_teacher text-center">
+                        <a href="#">
+                            <div class="single_teacher_bg single_teacher_bg4"></div>
+                        </a>
+                        <div class="teacher_title">
+                            <a href="#">
+                                <h3>Arnulfo Calderon Corredor</h3>
+                            </a>
+                            <p>Profesional en infraestructura de redes</p>
                         </div>
                     </div>
                     <!-- Single Service End -->
