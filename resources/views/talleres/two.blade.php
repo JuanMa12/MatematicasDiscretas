@@ -36,11 +36,11 @@
                                 <p><strong style="font-size: 20px;">1. </strong> Simplificar las siguientes expresiones
                                   Booleanas y dibuje los respectivos circuitos equivalentes.</strong></p>
                                 <p><img src="/images_talleres/two/1/1-a.png" alt="1->a" class="img-responsive"></p>
-                                <img src="/images_talleres/two/1/1.a-2.jpg" alt="1->a" class="img-responsive">
+                                <img src="/images_talleres/two/1/1-a-2.jpg" alt="1->a" class="img-responsive">
                                 <p><img src="/images_talleres/two/1/1-b.png" alt="1->b" class="img-responsive"></p>
-                                <img src="/images_talleres/two/1/1.b-2.jpg" alt="1->a" class="img-responsive">
+                                <img src="/images_talleres/two/1/1-b-2.jpg" alt="1->a" class="img-responsive">
                                 <p><img src="/images_talleres/two/1/1-c.png" alt="1->c" class="img-responsive"></p>
-                                <img src="/images_talleres/two/1/1.c-2.jpg" alt="1->a" class="img-responsive">
+                                <img src="/images_talleres/two/1/1-c-2.jpg" alt="1->a" class="img-responsive">
                             </div>
                         </div>
 
@@ -89,13 +89,13 @@
                                 de logica cableada para las siguientes expresiones:</p>
                               <!-- a -->
                               <img src="/images_talleres/two/3/3-a.png" alt="3->a" class="img-responsive">
-                              <img src="/images_talleres/two/3/3.a-2.jpg" alt="3->a-2" class="img-responsive">
+                              <img src="/images_talleres/two/3/3-a-2.jpg" alt="3->a-2" class="img-responsive">
                               <!-- b -->
                               <img src="/images_talleres/two/3/3-b.png" alt="3->a" class="img-responsive">
-                              <img src="/images_talleres/two/3/3.b-2.jpg" alt="3->b-2" class="img-responsive">
+                              <img src="/images_talleres/two/3/3-b-2.jpg" alt="3->b-2" class="img-responsive">
                               <!-- c -->
                               <img src="/images_talleres/two/3/3-c.png" alt="3->a" class="img-responsive">
-                              <img src="/images_talleres/two/3/3.c-2.jpg" alt="3->c-2" class="img-responsive">
+                              <img src="/images_talleres/two/3/3-c-2.jpg" alt="3->c-2" class="img-responsive">
                             </div>
                         </div>
                     </div>
@@ -113,13 +113,13 @@
 
                               <!-- a -->
                               <p><strong>Salida 1</strong></p>
-                              <img src="/images_talleres/two/4/4.a.png" alt="4->a" class="img-responsive">
+                              <img src="/images_talleres/two/4/4-a.png" alt="4->a" class="img-responsive">
                               <!-- b -->
                               <p><strong>Salida 2</strong></p>
-                              <img src="/images_talleres/two/4/4.b.png" alt="4->b" class="img-responsive">
+                              <img src="/images_talleres/two/4/4-b.png" alt="4->b" class="img-responsive">
                               <!-- c -->
                               <p><strong>Salida 3</strong></p>
-                              <img src="/images_talleres/two/4/4.c.png" alt="4->c" class="img-responsive">
+                              <img src="/images_talleres/two/4/4-c.png" alt="4->c" class="img-responsive">
 
                             </div>
                         </div>
@@ -154,10 +154,10 @@
 
                                 <!-- a -->
                                 <p><img src="/images_talleres/two/6/6-a.png" alt="6->a" class="img-responsive"></p>
-                                <img src="/images_talleres/two/6/6.a-2.png" alt="6->a-2" class="img-responsive">
+                                <img src="/images_talleres/two/6/6-a-2.png" alt="6->a-2" class="img-responsive">
                                 <!-- b -->
                                 <p><img src="/images_talleres/two/6/6-b.png" alt="6->a"  class="img-responsive"></p>
-                                <img src="/images_talleres/two/6/6.b-2.jpg" alt="6->b-2" class="img-responsive">
+                                <img src="/images_talleres/two/6/6-b-2.jpg" alt="6->b-2" class="img-responsive">
                             </div>
                         </div>
                     </div>
@@ -190,10 +190,10 @@
 
                               <!-- a -->
                               <p><strong>Luces encendidas</strong></p>
-                              <img src="/images_talleres/two/8/8.a.jpg" alt="8->a" class="img-responsive">
+                              <img src="/images_talleres/two/8/8-a.jpg" alt="8->a" class="img-responsive">
                               <!-- b -->
                               <p><strong>Puerta del conductor abierta</strong></p>
-                              <img src="/images_talleres/two/8/8.b.png" alt="8->a" class="img-responsive">
+                              <img src="/images_talleres/two/8/8-b.png" alt="8->a" class="img-responsive">
                             </div>
                         </div>
                     </div>
@@ -208,7 +208,7 @@
                                 de abajo y elabore su respectiva tabla de verdad. (Recuerde que
                                 tiene tres salidas diferentes).</p>
                               <img src="/images_talleres/two/9/9-b.png" alt="9->b" class="img-responsive">
-                              <img src="/images_talleres/two/9/9.a-2.png" alt="9->a" class="img-responsive">
+                              <img src="/images_talleres/two/9/9-a-2.png" alt="9->a" class="img-responsive">
                             </div>
                         </div>
                     </div>
@@ -220,7 +220,7 @@
                                 con semisumadores, que haga la multiplicación entre dos números binarios
                                 uno de tres bits por otro de dos.</p>
                               <!-- a -->
-                              <img src="/images_talleres/two/10/10.jpg" alt="10" class="img-responsive">
+                              <img src="/images_talleres/two/10/10-a.jpg" alt="10" class="img-responsive">
                               <br><br>
                             </div>
                         </div>
