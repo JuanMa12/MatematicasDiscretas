@@ -36,11 +36,11 @@
                                 <p><strong style="font-size: 20px;">1. </strong> Simplificar las siguientes expresiones
                                   Booleanas y dibuje los respectivos circuitos equivalentes.</strong></p>
                                 <p><img src="/images_talleres/two/1/1-a.png" alt="1->a" class="img-responsive"></p>
-                                <img src="/images_talleres/two/1/1-a-2.jpg" alt="1->a" class="img-responsive">
+                                <img src="/images_talleres/two/1/1-a-exercise.jpg" alt="1->a" class="img-responsive">
                                 <p><img src="/images_talleres/two/1/1-b.png" alt="1->b" class="img-responsive"></p>
-                                <img src="/images_talleres/two/1/1-b-2.jpg" alt="1->a" class="img-responsive">
+                                <img src="/images_talleres/two/1/1-b-exercise.jpg" alt="1->a" class="img-responsive">
                                 <p><img src="/images_talleres/two/1/1-c.png" alt="1->c" class="img-responsive"></p>
-                                <img src="/images_talleres/two/1/1-c-2.jpg" alt="1->a" class="img-responsive">
+                                <img src="/images_talleres/two/1/1-c-exercise.jpg" alt="1->a" class="img-responsive">
                             </div>
                         </div>
 
