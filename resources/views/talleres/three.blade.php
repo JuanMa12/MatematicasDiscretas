@@ -108,21 +108,21 @@
                                 <p>Determine:</p>
 
                                 <div class="col-md-12">
-                                  <img src="/images_talleres/three/4/4.png" alt="4->a" class="img-responsive center-block">
+                                  <img src="/images_talleres/three/4/4all.png" alt="4->a" class="img-responsive center-block">
                                 </div>
 
                               <!-- a -->
                               <p><strong>a.) ¿Cuántos leen solamente el Tiempo?</strong></p>
-                              <img src="/images_talleres/three/4/4-a.png" alt="4->b" class="img-responsive">
+                              <img src="/images_talleres/three/4/4-a-exercise.png" alt="4->b" class="img-responsive">
                               <!-- b -->
                               <p><strong>b.) ¿Cuántos en total leen solo un periódico?</strong></p>
-                              <img src="/images_talleres/three/4/4-b.png" alt="4->b" class="img-responsive">
+                              <img src="/images_talleres/three/4/4-b-exercise.png" alt="4->b" class="img-responsive">
                               <!-- c -->
                               <p><strong>c.) ¿Cuántos en total leen únicamente dos periódicos?</strong></p>
-                              <img src="/images_talleres/three/4/4-c.png" alt="4->c" class="img-responsive">
+                              <img src="/images_talleres/three/4/4-c-exercise.png" alt="4->c" class="img-responsive">
                               <!-- d -->
                               <p><strong>d.) ¿A cuántos no les apetece la lectura de estos?</strong></p>
-                              <img src="/images_talleres/three/4/4-d.png" alt="4->c" class="img-responsive">
+                              <img src="/images_talleres/three/4/4-d-exercise.png" alt="4->c" class="img-responsive">
 
                             </div>
                         </div>
@@ -194,18 +194,18 @@
                               <!-- a -->
                               <p><strong>a)</strong> Listado de empleados que ganan hasta dos salarios mínimos,
                                 con nombre, cargo, documento y salario.</p>
-                              <img src="/images_talleres/three/8/8-a.png" alt="8->a" class="img-responsive">
+                              <img src="/images_talleres/three/8/8-a-exercise.png" alt="8->a" class="img-responsive">
                               <!-- b -->
                               <p><strong>b)</strong> Seleccione  los cargos cuyos salarios superan el $1’500.000,00;
                                 con IdCargo,  Cargo, Salario y Subsidio de transporte.</p>
-                              <img src="/images_talleres/three/8/8-b.png" alt="8->b" class="img-responsive">
+                              <img src="/images_talleres/three/8/8-b-exercise.png" alt="8->b" class="img-responsive">
                               <!-- b -->
                               <p><strong>c)</strong> Juntar cargos y empleados.</p>
-                              <img src="/images_talleres/three/8/8-c.png" alt="8->c" class="img-responsive">
+                              <img src="/images_talleres/three/8/8-c-exercise.png" alt="8->c" class="img-responsive">
                               <!-- b -->
                               <p><strong>d)</strong> Seleccionar de la tabla empleados aquellos que ganan menos
                                 de $500.000,00 con nombre, documento y cargo.</p>
-                              <img src="/images_talleres/three/8/8-d.png" alt="8->d" class="img-responsive">
+                              <img src="/images_talleres/three/8/8-d-exercise.png" alt="8->d" class="img-responsive">
                             </div>
                         </div>
                     </div>
