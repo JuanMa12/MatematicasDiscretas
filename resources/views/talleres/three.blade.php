@@ -107,9 +107,13 @@
                                 30 los tres periódicos mencionados.</p>
                                 <p>Determine:</p>
 
+                                <div class="col-md-12">
+                                  <img src="/images_talleres/three/4/4.png" alt="4->a" class="img-responsive center-block">
+                                </div>
+
                               <!-- a -->
                               <p><strong>a.) ¿Cuántos leen solamente el Tiempo?</strong></p>
-                              <img src="/images_talleres/three/4/4-a.png" alt="4->a" class="img-responsive">
+                              <img src="/images_talleres/three/4/4-a.png" alt="4->b" class="img-responsive">
                               <!-- b -->
                               <p><strong>b.) ¿Cuántos en total leen solo un periódico?</strong></p>
                               <img src="/images_talleres/three/4/4-b.png" alt="4->b" class="img-responsive">
@@ -171,17 +175,8 @@
                               <p>Determine cuales de las relaciones son:</p>
 
                               <!-- a -->
-                              <p><strong>a) Reflexivas</strong></p>
-                              <img src="" alt="7->a" class="img-responsive">
-                              <!-- b -->
-                              <p><strong>b) Simetricas</strong></p>
-                              <img src="" alt="7->b" class="img-responsive">
-                              <!-- c -->
-                              <p><strong>b) Transitivas</strong></p>
-                              <img src="" alt="7->c" class="img-responsive">
-                              <!-- b -->
-                              <p><strong>b) De equivalencia</strong></p>
-                              <img src="" alt="7->d" class="img-responsive">
+                              <p><strong>a) Reflexivas , Simetricas , Transitivas , De equivalencia</strong></p>
+                              <img src="/images_talleres/three/7/7.png" alt="7->a" class="img-responsive">
                             </div>
                         </div>
                     </div>

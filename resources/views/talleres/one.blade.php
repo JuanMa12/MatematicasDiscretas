@@ -119,8 +119,14 @@
                               </div>
 
                               <!-- all salidas -->
-                              <p><strong>Salidas</strong></p>
-                              <img src="/images_talleres/one/5/5-a.png" alt="4->a" class="img-responsive">
+                              <p><strong>Salida 1</strong></p>
+                              <img src="/images_talleres/one/5/5-a.png" alt="5->a" class="img-responsive">
+                              <p><strong>Salida 2</strong></p>
+                              <img src="/images_talleres/one/5/5-b.png" alt="5->b" class="img-responsive">
+                              <p><strong>Salida 3</strong></p>
+                              <img src="/images_talleres/one/5/5-c.png" alt="5->c" class="img-responsive">
+                              <p><strong>Salida 4</strong></p>
+                              <img src="/images_talleres/one/5/5-d.png" alt="5->d" class="img-responsive">
                             </div>
                         </div>
                     </div>
@@ -137,7 +143,7 @@
                               <div class="col-md-4"><strong>r → q</strong>    :Premisa 2</div>
                               <div class="col-md-4"><strong>p</strong>   :Premisa 3</div>
                               <div class="col-md-12">
-                                <img src="" alt="6->a" class="img-responsive">
+                                <img src="/images_talleres/one/6/6-a.png" alt="6->a" class="img-responsive">
                               </div>
 
                               <!-- b -->
@@ -145,14 +151,14 @@
                               <div class="col-md-4"><strong>p</strong>  :Premisa 2</div>
                               <div class="col-md-4"><strong>t  → (q v s)</strong>  :Premisa 3</div>
                               <div class="col-md-12">
-                                <img src="" alt="6->b" class="img-responsive">
+                                <img src="/images_talleres/one/6/6-b.png" alt="6->b" class="img-responsive">
                               </div>
                               <!-- c -->
                               <div class="col-md-4"><strong>c) (p v q)</strong>  :Premisa 1</div>
                               <div class="col-md-4"><strong> ~r </strong>  :Premisa 2</div>
                               <div class="col-md-4"><strong>q → r</strong>  :Premisa 3</div>
                               <div class="col-md-12">
-                                <img src="" alt="6->c" class="img-responsive">
+                                <img src="/images_talleres/one/6/6-c.png" alt="6->c" class="img-responsive">
                               </div>
 
                             </div>
@@ -167,16 +173,16 @@
 
                               <!-- a -->
                               <p><img src="/images_talleres/one/7/7-a.png" alt="7->a" class="img-responsive"></p>
-                              <img src="" alt="7->a-2" class="img-responsive">
+                              <img src="/images_talleres/one/7/7-a-exercise.png" alt="7->a-2" class="img-responsive">
                               <!-- b -->
                               <p><img src="/images_talleres/one/7/7-b.png" alt="7->b" class="img-responsive"></p>
-                              <img src="" alt="7->b-2" class="img-responsive">
+                              <img src="/images_talleres/one/7/7-b-exercise.png" alt="7->b-2" class="img-responsive">
                               <!-- c -->
                               <p><img src="/images_talleres/one/7/7-c.png" alt="7->c" class="img-responsive"></p>
-                              <img src="" alt="7->c-2" class="img-responsive">
+                              <img src="/images_talleres/one/7/7-c-exercise.png" alt="7->c-2" class="img-responsive">
                               <!-- d -->
                               <p><img src="/images_talleres/one/7/7-d.png" alt="7->d" class="img-responsive"></p>
-                              <img src="" alt="7->d-2" class="img-responsive">
+                              <img src="/images_talleres/one/7/7-d-exercise.png" alt="7->d-2" class="img-responsive">
                             </div>
                         </div>
                     </div>
