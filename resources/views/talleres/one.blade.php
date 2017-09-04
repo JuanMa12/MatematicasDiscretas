@@ -47,6 +47,8 @@
                                 <p><img src="/images_talleres/one/1/1-c.png" alt="1->c" class="img-responsive"></p>
                                 <!-- d -->
                                 <p><img src="/images_talleres/one/1/1-d.png" alt="1->d" class="img-responsive"></p>
+
+                                <p><img src="/images_talleres/one/1/1-exercise.png" alt="1->d" class="img-responsive"></p>
                             </div>
                         </div>
 
