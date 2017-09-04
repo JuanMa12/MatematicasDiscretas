@@ -176,7 +176,7 @@
 
                               <!-- a -->
                               <p><strong>a) Reflexivas , Simetricas , Transitivas , De equivalencia</strong></p>
-                              <img src="/images_talleres/three/7/7.png" alt="7->a" class="img-responsive">
+                              <img src="/images_talleres/three/7/7-all.png" alt="7->a" class="img-responsive">
                             </div>
                         </div>
                     </div>
