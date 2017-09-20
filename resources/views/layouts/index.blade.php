@@ -23,7 +23,7 @@
                         </div>
                         <div class="course_content">
                             <a href="{{ url('/taller/logicaproposicional')}}">
-                                <h3>Logica Proposicional</h3>
+                                <h3>Logica Proposicional <br> "1 Corte"</h3>
                             </a>
                             <p>La lógica proposicional es un
                               sistema formal cuyos elementos más simples representan
@@ -44,7 +44,7 @@
                         </div>
                         <div class="course_content">
                             <a href="{{ url('/taller/algebrabooleana')}}">
-                                <h3>Algebra Booleana</h3>
+                                <h3>Algebra Booleana <br> "1 Corte"</h3>
                             </a>
                             <p>El álgebra booleana es un sistema matemático deductivo centrado
                               en los valores cero y uno (falso y verdadero).</p>
@@ -64,11 +64,31 @@
                         </div>
                         <div class="course_content">
                             <a href="{{ url('/taller/conjuntos') }}">
-                                <h3>Conjuntos y Relaciones</h3>
+                                <h3>Conjuntos y Relaciones <br> "1 Corte"</h3>
                             </a>
                             <p>Un conjunto es una colección de elementos considerada
-                              en sí misma como un objeto.</p>
+                              en sí misma como un objeto.</p> <br>
                             <a href="{{ url('/taller/conjuntos') }}">
+                              <i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- Single Course End -->
+                </div>
+                <!-- Column End -->
+                <div class="col-sm-4">
+                    <div class="single_course text-center mr20">
+                        <div class="single_course_bg single_course_bg4">
+                            <div class="date_round">
+                                <h4>20 <br>Sept</h4>
+                            </div>
+                        </div>
+                        <div class="course_content">
+                            <a href="{{ url('/taller/grafos')}}">
+                                <h3>Grafos <br> "2 Corte"</h3>
+                            </a>
+                            <p>Un grafo es un conjunto de objetos llamados vértices
+                              o nodos unidos por enlaces llamados aristas.</p>
+                            <a href="{{ url('/taller/grafos')}}">
                               <i class="fa fa-arrow-right"></i></a>
                         </div>
                     </div>

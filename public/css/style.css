@@ -604,6 +604,12 @@ ul.sub_menu {
 .single_course_bg3{
     background-image: url(../images/course_img3.jpg);
 }
+.single_course_bg4{
+    background-image: url(../images/course_img4.gif);
+}
+.single_course_bg5{
+    background-image: url(../images/course_img4.gif);
+}
 .single_course, .single_teacher{
     background: #fff none repeat scroll 0 0;
     border-radius: 10px;
@@ -1445,12 +1451,7 @@ home3 .blog_content > a:hover {
 .course .romana_about_area{
     padding-top: 100px;
 }
-.single_course_bg4 {
-    background-image: url("../images/course_img7.jpg");
-}
-.single_course_bg5 {
-    background-image: url("../images/course_img8.jpg");
-}
+
 .single_course_bg6 {
     background-image: url("../images/course_img9.jpg");
 }

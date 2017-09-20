@@ -26,3 +26,6 @@ Route::get('/taller/algebrabooleana', function () {
 Route::get('/taller/conjuntos', function () {
     return view('talleres/three');
 });
+Route::get('/taller/grafos', function () {
+    return view('talleres/four');
+});

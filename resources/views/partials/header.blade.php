@@ -18,6 +18,7 @@
                                     <li><a href="{{ url('/taller/logicaproposicional')}}">Logica Proposicional</a></li>
                                     <li><a href="{{ url('/taller/algebrabooleana')}}">Algebra Boolena</a></li>
                                     <li><a href="{{ url('/taller/conjuntos')}}">Conjuntos y Relaciones</a></li>
+                                    <li><a href="{{ url('/taller/grafos')}}">Grafos</a></li>
                                 </ul>
                             </li>
                         </ul>
