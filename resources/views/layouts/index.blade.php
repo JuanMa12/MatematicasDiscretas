@@ -105,14 +105,25 @@
     <div class="romana_cta_area">
         <div class="container">
             <div class="row">
-                <div class="col-md-5 col-md-offset-1">
+                <div class="col-md-12">
                     <h2>Ejercicios <br> Matematicas Discretas.</h2>
-                    <div class="home_cta_btn">
-                        <a href="{{ url('/talleres') }}" class="common_btn hvr-sweep-to-bottom">
-                          VER TALLERES <i class="fa fa-arrow-right"></i></a>
-                    </div>
                 </div>
                 <!-- Column End -->
+            </div>
+            <!-- Row End -->
+            <div class="row">
+              <div class="col-md-6">
+                <div class="home_cta_btn">
+                    <a href="{{ url('/talleres') }}" class="common_btn hvr-sweep-to-bottom">
+                      VER TALLERES <i class="fa fa-arrow-right"></i></a>
+                </div><br>
+              </div>
+              <div class="col-md-6">
+                <div class="home_cta_btn">
+                    <a href="{{ url('/aplicacion') }}" class="common_btn hvr-sweep-to-bottom">
+                      MATEMATICAS DISCRETAS & INGENIERIA DE SISTEMAS <i class="fa fa-arrow-right"></i></a>
+                </div>
+              </div>
             </div>
             <!-- Row End -->
         </div>

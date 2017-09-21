@@ -29,3 +29,6 @@ Route::get('/taller/conjuntos', function () {
 Route::get('/taller/grafos', function () {
     return view('talleres/four');
 });
+Route::get('/aplicacion', function () {
+    return view('layouts/application');
+});
