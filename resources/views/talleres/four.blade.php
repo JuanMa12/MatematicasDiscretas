@@ -187,7 +187,7 @@
                               <!-- a -->
                               <p><strong>a)</strong></p>
                               <img src="/images_talleres/four/9/9-a.png" alt="9->a" class="img-responsive">
-                              <p><img src="/images_talleres/four/9/9-a2.png" alt="9->a2" class="img-responsive"></p>
+                              <p><img src="/images_talleres/four/9/9-a21.png" alt="9->a21" class="img-responsive"></p>
                               <!-- b -->
                               <p><strong>b)</strong></p>
                               <img src="/images_talleres/four/9/9-b.png" alt="9->b" class="img-responsive">
