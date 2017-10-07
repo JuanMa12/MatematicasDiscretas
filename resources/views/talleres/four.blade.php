@@ -145,15 +145,13 @@
                               <!-- a -->
                               <p><strong>a) </strong></p>
                               <p><img src="/images_talleres/four/7/7-a.png" alt="7->a" class="img-responsive"></p>
-                              <img src="/images_talleres/four/7/7-a2.png" alt="7->a2" class="img-responsive">
-                              <!-- b -->
-                              <p><strong>b) </strong></p>
                               <p><img src="/images_talleres/four/7/7-b.png" alt="7->b" class="img-responsive"></p>
-                              <img src="/images_talleres/four/7/7-b2.png" alt="7->b2" class="img-responsive">
-                              <!-- c -->
-                              <p><strong>c) </strong></p>
                               <p><img src="/images_talleres/four/7/7-c.png" alt="7->c" class="img-responsive"></p>
-                              <img src="/images_talleres/four/7/7-c2.png" alt="7->c2" class="img-responsive">
+
+                              <p><img src="/images_talleres/four/7/7-a2.png" alt="7->a2" class="img-responsive"></p>
+                              <p><img src="/images_talleres/four/7/7-a21.png" alt="7->a21" class="img-responsive"></p>
+                              <p><img src="/images_talleres/four/7/7-a22.png" alt="7->a22" class="img-responsive"></p>
+
                             </div>
                         </div>
                     </div>
@@ -169,10 +167,12 @@
                               <p><strong>a)</strong></p>
                               <img src="/images_talleres/four/8/8-a.png" alt="8->a" class="img-responsive">
                               <p><img src="/images_talleres/four/8/8-a2.png" alt="8->a2" class="img-responsive"></p>
+                              <p><img src="/images_talleres/four/8/8-a21.png" alt="8->a21" class="img-responsive"></p>
                               <!-- b -->
                               <p><strong>b)</strong></p>
                               <img src="/images_talleres/four/8/8-b.png" alt="8->b" class="img-responsive">
                               <p><img src="/images_talleres/four/8/8-b2.png" alt="8->b2" class="img-responsive"></p>
+                              <p><img src="/images_talleres/four/8/8-b21.png" alt="8->b21" class="img-responsive"></p>
 
                             </div>
                         </div>
@@ -207,26 +207,32 @@
                               <p><strong>a)</strong></p>
                               <img src="/images_talleres/four/10/10-a.png" alt="10->a" class="img-responsive">
                               <p><img src="/images_talleres/four/10/10-a2.png" alt="10->a2" class="img-responsive"></p>
+                              <p><img src="/images_talleres/four/10/10-a21.png" alt="10->a21" class="img-responsive"></p>
                               <!-- b -->
                               <p><strong>b)</strong></p>
                               <img src="/images_talleres/four/10/10-b.png" alt="10->b" class="img-responsive">
                               <p><img src="/images_talleres/four/10/10-b2.png" alt="10->b2" class="img-responsive"></p>
+                              <p><img src="/images_talleres/four/10/10-b21.png" alt="10->b21" class="img-responsive"></p>
                               <!-- c -->
                               <p><strong>c)</strong></p>
                               <img src="/images_talleres/four/10/10-c.png" alt="10->c" class="img-responsive">
                               <p><img src="/images_talleres/four/10/10-c2.png" alt="10->c2" class="img-responsive"></p>
+                              <p><img src="/images_talleres/four/10/10-c21.png" alt="10->c21" class="img-responsive"></p>
                               <!-- d -->
                               <p><strong>d)</strong></p>
                               <img src="/images_talleres/four/10/10-d.png" alt="10->d" class="img-responsive">
                               <p><img src="/images_talleres/four/10/10-d2.png" alt="10->d2" class="img-responsive"></p>
+                              <p><img src="/images_talleres/four/10/10-d21.png" alt="10->d21" class="img-responsive"></p>
                               <!-- e -->
                               <p><strong>e)</strong></p>
                               <img src="/images_talleres/four/10/10-e.png" alt="10->e" class="img-responsive">
                               <p><img src="/images_talleres/four/10/10-e2.png" alt="10->e2" class="img-responsive"></p>
+                              <p><img src="/images_talleres/four/10/10-e21.png" alt="10->e21" class="img-responsive"></p>
                               <!-- f -->
                               <p><strong>f)</strong></p>
                               <img src="/images_talleres/four/10/10-f.png" alt="10->f" class="img-responsive">
                               <p><img src="/images_talleres/four/10/10-f2.png" alt="10->f2" class="img-responsive"></p>
+                              <p><img src="/images_talleres/four/10/10-f21.png" alt="10->f21" class="img-responsive"></p>
 
                             </div>
                         </div>
@@ -243,10 +249,12 @@
                               <p><strong>a)</strong></p>
                               <img src="/images_talleres/four/11/11-a.png" alt="11->a" class="img-responsive">
                               <p><img src="/images_talleres/four/11/11-a2.png" alt="11->a2" class="img-responsive"></p>
+                              <p><img src="/images_talleres/four/11/11-a21.png" alt="11->a21" class="img-responsive"></p>
                               <!-- b -->
                               <p><strong>b)</strong></p>
                               <img src="/images_talleres/four/11/11-b.png" alt="11->b" class="img-responsive">
                               <p><img src="/images_talleres/four/11/11-b2.png" alt="11->b2" class="img-responsive"></p>
+                              <p><img src="/images_talleres/four/11/11-b21.png" alt="11->b21" class="img-responsive"></p>
 
                             </div>
                         </div>
