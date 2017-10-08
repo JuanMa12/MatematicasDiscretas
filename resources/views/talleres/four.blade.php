@@ -38,11 +38,11 @@
                                   Con las matrices de adyacencia determine los niveles de recorrido desde el nodo A
                                   hasta el nodo D:</strong></p>
                                 <p><img src="/images_talleres/four/1/1-a.png" alt="1->a" class="img-responsive"></p>
-                                <img src="/images_talleres/four/1/1.a-2.png" alt="1->a" class="img-responsive">
-                                <p><img src="/images_talleres/four/1/1-b.png" alt="1->b" class="img-responsive"></p>
-                                <img src="/images_talleres/four/1/1.b-2.png" alt="1->b" class="img-responsive">
-                                <p><img src="/images_talleres/four/1/1-c.png" alt="1->c" class="img-responsive"></p>
-                                <img src="/images_talleres/four/1/1.c-2.png" alt="1->c" class="img-responsive">
+                                <img src="/images_talleres/four/1/1-a2.png" alt="1->a" class="img-responsive">
+                                <p><img src="/images_talleres/four/1/1-b.png" alt="1->b" class="img-responsive hidden"></p>
+                                <img src="/images_talleres/four/1/1.b-2.png" alt="1->b" class="img-responsive hidden">
+                                <p><img src="/images_talleres/four/1/1-c.png" alt="1->c" class="img-responsive hidden"></p>
+                                <img src="/images_talleres/four/1/1.c-2.png" alt="1->c" class="img-responsive hidden">
                             </div>
                         </div>
 
@@ -55,7 +55,7 @@
                                 algoritmo de Dijkstra, para hallar la ruta mínima desde el nodo 1 hasta el 8, para el
                                 siguiente grafo.</p>
                               <p><img src="/images_talleres/four/2/2-a.png" alt="2->a" class="img-responsive"></p>
-                              <img src="/images_talleres/four/2/2-b.png" alt="2->a-2" class="img-responsive">
+                              <img src="/images_talleres/four/2/2-a2.png" alt="2->a-2" class="img-responsive">
                             </div>
                         </div>
                     </div>
@@ -88,6 +88,7 @@
                               <!-- a -->
                               <img src="/images_talleres/four/4/4-a.png" alt="4->a" class="img-responsive">
                               <p><img src="/images_talleres/four/4/4-a2.png" alt="4->a2" class="img-responsive"></p>
+                              <p><img src="/images_talleres/four/4/4-a21.png" alt="4->a21" class="img-responsive"></p>
                               <!-- b -->
                               <img src="/images_talleres/four/4/4-b.png" alt="4->b" class="img-responsive">
                               <p><img src="/images_talleres/four/4/4-b2.png" alt="4->b2" class="img-responsive"></p>
