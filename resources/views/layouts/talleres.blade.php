@@ -112,6 +112,27 @@
                 <!-- Single Course End -->
             </div>
             <!-- Column End -->
+            <div class="col-sm-4">
+                <div class="single_course text-center mr20">
+                    <div class="single_course_bg single_course_bg5">
+                        <div class="date_round">
+                            <h4>10 <br>Nov</h4>
+                        </div>
+                    </div>
+                    <div class="course_content">
+                        <a href="{{ url('/taller/sistemas_numericos')}}">
+                            <h3>Sistemas Numéricos <br> "3 Corte"</h3>
+                        </a>
+                        <p>Son un conjunto de símbolos y
+                          reglas que se utilizan para representar datos
+                          numéricos o cantidades.</p>
+                        <a href="{{ url('/taller/sistemas_numericos')}}">
+                          <i class="fa fa-arrow-right"></i></a>
+                    </div>
+                </div>
+                <!-- Single Course End -->
+            </div>
+            <!-- Column End -->
         </div>
     </div>
     <!-- Container End  -->

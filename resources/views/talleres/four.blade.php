@@ -9,7 +9,7 @@
                 <div class="display_table">
                     <div class="display_table_cell">
                         <div class="inner_page_hero_text">
-                            <h2>Conjuntos y Relaciones</h2>
+                            <h2>Grafos</h2>
                             <ol class="breadcrumb">
                                 <li><a href="{{ url('/') }}">Inicio</a></li>
                                 <li class="active"><a href="{{ url('/talleres') }}">talleres</a></li>

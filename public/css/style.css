@@ -608,7 +608,7 @@ ul.sub_menu {
     background-image: url(../images/course_img4.gif);
 }
 .single_course_bg5{
-    background-image: url(../images/course_img4.gif);
+    background-image: url(../images/course_img5.jpg);
 }
 .single_course, .single_teacher{
     background: #fff none repeat scroll 0 0;
@@ -2159,3 +2159,7 @@ body.preloader_active {
   top: 50%;
   width: 142px;
   z-index: 2147483647; }
+
+  .text10{
+    font-size: 10px;
+  }

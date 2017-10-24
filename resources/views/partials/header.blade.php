@@ -19,6 +19,7 @@
                                     <li><a href="{{ url('/taller/algebrabooleana')}}">Algebra Boolena</a></li>
                                     <li><a href="{{ url('/taller/conjuntos')}}">Conjuntos y Relaciones</a></li>
                                     <li><a href="{{ url('/taller/grafos')}}">Grafos</a></li>
+                                    <li><a href="{{ url('/taller/sistemas_numericos')}}">Sistemas Numericos</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -29,7 +30,7 @@
                 <div class="col-sm-3">
                     <div class="header_right text-right">
                         <a href="{{ url('/talleres')}}" class="common_btn hvr-sweep-to-bottom">
-                        1 CORTE</a>
+                        3 CORTE</a>
                     </div>
                 </div>
                 <!-- column End -->
