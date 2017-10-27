@@ -1,0 +1,93 @@
+.table-cal{
+	padding: 20px;
+	border-color:gray;
+	background:#424242;
+	border-radius: 10px;
+}
+
+.table-col{
+	margin: 20px;
+}
+
+.rsul{
+	background:#A9C7C0;
+//	height:50px;
+}
+.fr{
+	margin-left:10px;
+	cursor:pointer;
+}
+
+#pr{
+	color: #fff;
+	background: #ec9b0e;
+	width:100%;
+	border:1px solid gray;
+	height:40px;
+	padding:4px;
+	border-radius: 10px;
+}
+
+#num1{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	width:100%;
+	border:1px solid gray;
+	padding:4px;
+	border-radius: 10px;
+}
+
+.txtFr{
+	margin: 5px;
+	display:inline-block;
+	width:80px;
+	font-weight:bold;
+	color: #fff ;
+}
+
+.Op{
+	display:inline-block;
+	margin-left:5px;
+	text-align:center;
+	color:white;
+	width:40px;
+	background: #ffbd4a;
+	cursor:pointer;
+	font-weight:bold;
+	padding: 3px 0px 3px 0px;
+	border-radius: 10px;
+}
+
+.Op2{
+	display:inline-block;
+	margin-left:5px;
+	text-align:center;
+	color:white;
+	width:80px;
+	background: #00adee;
+	cursor:pointer;
+	font-weight:bold;
+	padding: 3px 0px 3px 0px;
+	border-radius: 10px;
+}
+
+.Op:hover{
+	background:#969391;
+}
+
+.OpL{
+	display:inline-block;
+	margin-left:5px;
+	text-align:center;
+	color:white;
+	width:85px;
+	background: #d84937;
+	cursor:pointer;
+	font-weight:bold;
+	padding: 3px 0px 3px 0px;
+	border-radius: 10px;
+}
+
+.OpL:hover{
+	background:#CBBAAF;
+}

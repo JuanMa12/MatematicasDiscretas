@@ -35,3 +35,7 @@ Route::get('/taller/sistemas_numericos', function () {
 Route::get('/aplicacion', function () {
     return view('layouts/application');
 });
+
+Route::get('/calculate', function () {
+    return view('calculate/index');
+});
