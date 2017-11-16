@@ -213,6 +213,7 @@
 
                               <!-- a -->
                               <p><strong>Resumen:</strong></p>
+                              <img src="/images_talleres/five/10/10.png" alt="10" class="img-responsive">
 
                             </div>
                         </div>
@@ -248,6 +249,9 @@
 
                               <!-- a -->
                               <img src="/images_talleres/five/12/12-a.png" alt="12->a" class="img-responsive">
+                              <p><img src="/images_talleres/five/12/12-b.png" alt="12->b" class="img-responsive"></p>
+                              <p><img src="/images_talleres/five/12/12-c.png" alt="12->c" class="img-responsive"></p>
+                              <p><img src="/images_talleres/five/12/12-d.png" alt="12->d" class="img-responsive"></p>
 
                             </div>
                         </div>
@@ -263,6 +267,8 @@
 
                               <!-- a -->
                               <img src="/images_talleres/five/13/13-a.png" alt="13->a" class="img-responsive">
+                              <p><img src="/images_talleres/five/13/13-b.png" alt="13->b" class="img-responsive"></p>
+                              <p><img src="/images_talleres/five/13/13-c.png" alt="13->c" class="img-responsive"></p>
 
                             </div>
                         </div>
