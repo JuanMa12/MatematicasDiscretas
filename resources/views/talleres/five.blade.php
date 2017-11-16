@@ -38,9 +38,9 @@
                                 <p><strong>a) </strong> 8543 <span class="text10">10</span> </p>
                                 <img src="/images_talleres/five/1/1-a.png" alt="1->a" class="img-responsive">
                                 <p><strong>b) </strong> 1856.23 <span class="text10">10</span></p>
-                                <img src="/images_talleres/five/1/1.b.png" alt="1->b" class="img-responsive">
+                                <img src="/images_talleres/five/1/1-b.png" alt="1->b" class="img-responsive">
                                 <p><strong>c) </strong> 3816.25 <span class="text10">10</span></p>
-                                <img src="/images_talleres/four/1/1.c.png" alt="1->c" class="img-responsive">
+                                <img src="/images_talleres/five/1/1-c.png" alt="1->c" class="img-responsive">
                             </div>
                         </div>
 
@@ -51,12 +51,7 @@
                             <div class="course_des">
                               <p><strong style="font-size: 20px;">2. </strong> Convierta a decimal los siguientes números
                                 en su base indicada:</p>
-                              <p><strong>a) </strong> 7256 <span class="text10">8</span> </p>
                               <img src="/images_talleres/five/2/2-a.png" alt="2->a" class="img-responsive">
-                              <p><strong>b) </strong> 1E5C.2E <span class="text10">16</span> </p>
-                              <img src="/images_talleres/five/2/2-b.png" alt="2->b" class="img-responsive">
-                              <p><strong>c) </strong> 1111000.111 <span class="text10">2</span> </p>
-                              <img src="/images_talleres/five/2/2-c.png" alt="2->c" class="img-responsive">
                             </div>
                         </div>
                     </div>
@@ -73,9 +68,6 @@
                               <!-- b -->
                               <p><strong>b)</strong> ( 1FE5C<span class="text10">16</span>, AFF5C<span class="text10">16</span> )</p>
                               <img src="/images_talleres/five/3/3-b.png" alt="3->b" class="img-responsive">
-                              <!-- c -->
-                              <p><strong>c)</strong> ( 1111100011<span class="text10">2</span>, 1111000010<span class="text10">2</span> )</p>
-                              <img src="/images_talleres/five/3/3-c.png" alt="3->c" class="img-responsive">
                             </div>
                         </div>
                     </div>
@@ -87,7 +79,7 @@
 
                               <!-- a -->
                               <p><strong>a) </strong> 82 y 75</p>
-                              <p><img src="/images_talleres/five/4/4-a21.png" alt="4->a" class="img-responsive"></p>
+                              <p><img src="/images_talleres/five/4/4-a.png" alt="4->a" class="img-responsive"></p>
                               <!-- b -->
                               <p><strong>b) </strong> 469 y 386</p>
                               <p><img src="/images_talleres/five/4/4-b.png" alt="4->b" class="img-responsive"></p>
@@ -107,17 +99,9 @@
                                 con signo en su equivalente de byte:</p>
 
                               <!-- a -->
-                              <p><strong>a) </strong> (+16) con (+25)</p>
+                              <p><strong>a) </strong> (+16) con (+25) <strong>b) </strong> (-26) con (+35)
+                              <strong>c) </strong> (-36) con (+20) <strong>d) </strong> (-56) con (-22)</p>
                               <img src="/images_talleres/five/5/5-a.png" alt="5->a" class="img-responsive">
-                              <!-- b -->
-                              <p><strong>b) </strong> (-26) con (+35)</p>
-                              <img src="/images_talleres/five/5/5-b.png" alt="5->b" class="img-responsive">
-                              <!-- c -->
-                              <p><strong>c) </strong> (-36) con (+20)</p>
-                              <img src="/images_talleres/five/5/5-c.png" alt="5->c" class="img-responsive">
-                              <!-- d -->
-                              <p><strong>d) </strong> (-56) con (-22)</p>
-                              <img src="/images_talleres/five/5/5-d.png" alt="5->d" class="img-responsive">
                             </div>
                         </div>
                     </div>
@@ -129,13 +113,19 @@
                                 mcd(440,225), mcd(1234,56); mediante la aplicación de los algoritmos de: </p>
                                 <!-- a -->
                                 <p><strong>a: </strong> Descomposición en factores primos.  </p>
-                                <img src="/images_talleres/five/6/6-a.png" alt="6->a" class="img-responsive">
+                                <img src="/images_talleres/five/6/6-a-1.jpg" alt="6->a" class="img-responsive">
+                                <p><img src="/images_talleres/five/6/6-a-2.jpg" alt="6->a" class="img-responsive"></p>
+                                <p><img src="/images_talleres/five/6/6-a-3.jpg" alt="6->a" class="img-responsive"></p>
                                 <!-- b -->
                                 <p><strong>b: </strong> Diferencias. </p>
-                                <img src="/images_talleres/five/6/6-b.png" alt="6->b" class="img-responsive">
+                                <img src="/images_talleres/five/6/6-b-1.jpg" alt="6->b" class="img-responsive">
+                                <p><img src="/images_talleres/five/6/6-b-2.jpg" alt="6->b" class="img-responsive"></p>
+                                <p><img src="/images_talleres/five/6/6-b-3.png" alt="6->b" class="img-responsive"></p>
                                 <!-- c -->
                                 <p><strong>c: </strong> Modulo de Euclides.</p>
-                                <img src="/images_talleres/five/6/6-c.png" alt="6->c" class="img-responsive">
+                                <img src="/images_talleres/five/6/6-c-1.jpg" alt="6->c" class="img-responsive">
+                                <p><img src="/images_talleres/five/6/6-c-2.jpg" alt="6->c" class="img-responsive"></p>
+                                <p><img src="/images_talleres/five/6/6-c-3.png" alt="6->c" class="img-responsive"></p>
 
                             </div>
                         </div>
@@ -153,11 +143,9 @@
                               <p><strong>b) </strong> 5^8<span class="text10">mod</span>200</p>
                               <p><img src="/images_talleres/five/7/7-b.png" alt="7->b" class="img-responsive"></p>
                               <!-- c -->
-                              <p><strong>c) </strong> 10^15<span class="text10">mod</span>61</p>
+                              <p><strong>c) </strong> 10^15<span class="text10">mod</span>61  _  <strong>d) </strong> 
+                                14^150<span class="text10">mod</span>532</p>
                               <p><img src="/images_talleres/five/7/7-c.png" alt="7->c" class="img-responsive"></p>
-                              <!-- d -->
-                              <p><strong>d) </strong> 14^150<span class="text10">mod</span>532</p>
-                              <p><img src="/images_talleres/five/7/7-d.png" alt="7->d" class="img-responsive"></p>
 
                             </div>
                         </div>
