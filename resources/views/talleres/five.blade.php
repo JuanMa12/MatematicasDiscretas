@@ -351,7 +351,7 @@
                                 el rango RX, la distribución de probabilidad y la esperanza de X.</p>
 
                               <!-- a -->
-                              <img src="/images_talleres/five/18/18-a.png" alt="18->a" class="img-responsive">
+                              <img src="/images_talleres/five/18/18.jpg" alt="18->a" class="img-responsive">
 
                             </div>
                         </div>
