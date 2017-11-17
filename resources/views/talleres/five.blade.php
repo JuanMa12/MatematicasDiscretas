@@ -143,7 +143,7 @@
                               <p><strong>b) </strong> 5^8<span class="text10">mod</span>200</p>
                               <p><img src="/images_talleres/five/7/7-b.png" alt="7->b" class="img-responsive"></p>
                               <!-- c -->
-                              <p><strong>c) </strong> 10^15<span class="text10">mod</span>61  _  <strong>d) </strong> 
+                              <p><strong>c) </strong> 10^15<span class="text10">mod</span>61  _  <strong>d) </strong>
                                 14^150<span class="text10">mod</span>532</p>
                               <p><img src="/images_talleres/five/7/7-c.png" alt="7->c" class="img-responsive"></p>
 
@@ -292,13 +292,13 @@
 
                               <!-- a -->
                               <p><strong>a) </strong>  (x – 3)^6</p>
-                              <img src="/images_talleres/five/15/15-a.png" alt="15->a" class="img-responsive">
+                              <img src="/images_talleres/five/15/15-a.jpg" alt="15->a" class="img-responsive">
                               <!-- b -->
                               <p><strong>b) </strong> (x + 5)^8</p>
-                              <img src="/images_talleres/five/15/15-b.png" alt="15->b" class="img-responsive">
+                              <img src="/images_talleres/five/15/15-b.jpg" alt="15->b" class="img-responsive">
                               <!-- a -->
                               <p><strong>c) </strong> (2 + y)^10</p>
-                              <img src="/images_talleres/five/15/15-c.png" alt="15->c" class="img-responsive">
+                              <img src="/images_talleres/five/15/15-c.jpg" alt="15->c" class="img-responsive">
 
                             </div>
                         </div>
@@ -316,7 +316,10 @@
                                 <strong>d.) </strong> Al menos una niña.</p>
 
                               <!-- a -->
-                              <img src="/images_talleres/five/16/16-a.png" alt="16->a" class="img-responsive">
+                              <img src="/images_talleres/five/16/16-a.jpg" alt="16->a" class="img-responsive">
+                              <img src="/images_talleres/five/16/16-b.jpg" alt="16->b" class="img-responsive">
+                              <img src="/images_talleres/five/16/16-c.jpg" alt="16->c" class="img-responsive">
+                              <img src="/images_talleres/five/16/16-d.jpg" alt="16->d" class="img-responsive">
 
                             </div>
                         </div>
@@ -333,7 +336,7 @@
                                  <strong>c.) </strong> {m,u,r,c,i,e,l,a,g,o}</p>
 
                               <!-- a -->
-                              <img src="/images_talleres/five/17/17-a.png" alt="17->a" class="img-responsive">
+                              <img src="/images_talleres/five/17/17.jpg" alt="17->a" class="img-responsive">
 
                             </div>
                         </div>
@@ -364,7 +367,7 @@
                                 juego para el jugador.</p>
 
                               <!-- a -->
-                              <img src="/images_talleres/five/19/19-a.png" alt="19->a" class="img-responsive">
+                              <img src="/images_talleres/five/19/19.jpg" alt="19->a" class="img-responsive">
 
                             </div>
                         </div>
@@ -395,7 +398,7 @@
 
                               <!-- a -->
                               <p><img src="/images_talleres/five/21/21-a.png" alt="21->a" class="img-responsive"></p>
-                              <img src="/images_talleres/five/21/21-a2.png" alt="21->a2" class="img-responsive">
+                              <img src="/images_talleres/five/21/21.jpg" alt="21->a2" class="img-responsive">
 
                             </div>
                         </div>
